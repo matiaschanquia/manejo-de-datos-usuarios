@@ -29,7 +29,7 @@ def main():
         print()
         print("1) Nombres con sus respectivas apariciones")
         print("2) Apellidos con sus respectivas apariciones")
-        print("3) Provincias con sus respectivas cantidades")
+        print("3) Provincias con sus respectivas apariciones")
         print("4) Buscar si existe alguien por su nombre y apellido")
         print("0) Salir")
         print()
